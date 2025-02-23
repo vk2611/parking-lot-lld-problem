@@ -21,6 +21,8 @@
 # Solution Overview
 
 Provide a high-level description of the proposed solution. This section should summarize how the problem will be addressed.
+<!-- https://editor.plantuml.com/uml/NSvB3e0W30JGFQTeF8decXKdA4XCOmK2nSJR-rlXB2SlanchO96siq8lgS3SggGz59NlcZnbZ0A3Ff0O7PESO4Cvo8S1i8AslPjIsYYkdPb-nk1BdabannyoMjqPGroUAnS0 -->
+![](resources/readme_images/Screenshot 2025-02-23 at 4.31.56 PM.png)
 
 ## Design Consideration
 
