@@ -1,20 +1,17 @@
 # Detailed Design Document for Parking Lot Problem.
+- What :- Parking lot system
+- Why :- To manage/solve parking problem efficiently.
+- How :- Build a System which can manage parking lot of various types of vehicle.
 
 # Problem Statement
-
-Clearly define the problem that needs to be addressed. This should include the background, the context, and the key challenges associated with the problem.
+- Design a Parking Lot System where customers can park their vehicles based on availability.
 
 # Functional Requirement
-
-List the essential functionalities the solution must provide. These are the core features required to achieve the desired outcomes.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
+- Users can check availability and park their vehicles accordingly.
+- Users can park any type of vehicle based on their requirements.
+- Users should have a UI or terminal to check available parking slots.
+- Users can initial a 
 # Non-Functional Requirement
-
-Outline the attributes that affect the performance and user experience but are not directly related to functionality. Examples include:
 
 - Scalability
 - Security
@@ -42,4 +39,6 @@ Detail various approaches that can be taken to solve the problem, comparing thei
 Include any additional information, references, or supplementary material that may be useful for understanding the document.
 
 # Resources
-* 
+Resources
+
+
